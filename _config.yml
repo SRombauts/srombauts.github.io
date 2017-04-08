@@ -1,0 +1,5 @@
+google_analytics: UA-30672558-1
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
