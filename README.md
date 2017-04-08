@@ -4,6 +4,7 @@ Here is the list of my main GitHub repositories:
 
 - [SQLiteC++](http://srombauts.github.com/SQLiteCpp): a smart an easy to use C++ wrapper to the SQLite3 library
 - [UE4 Git Plugin](http://srombauts.github.com/UE4GitPlugin): the Unreal Engine 4 Git Source Control Provider Plugin.
+- [UE4 Plastic SCM Plugin](http://srombauts.github.com/UE4PlasticPlugin): the Unreal Engine 4 Plastic SCM Source Control Provider Plugin.
 - [UE4 Procedural Mesh](https://github.com/SRombauts/UE4ProceduralMesh): using the Unreal Engine 4 UProceduralMeshComponent.
 - [UE4 Quick Start](https://github.com/SRombauts/UE4QuickStart): a mix of various Unreal Engine 4 C++ Tutorials.
 - [LoggerC++](http://srombauts.github.com/LoggerCpp): a simple, elegant and efficient C++ logger library.
@@ -11,3 +12,6 @@ Here is the list of my main GitHub repositories:
 
 Follow me on [Twitter](https://twitter.com/SRombauts),
 and see also my [developer blog](http://srombauts.fr).
+
+Copyright (c) 2012-2017 Sébastien Rombauts (sebastien.rombauts@gmail.com)
+&nbsp;&nbsp;&nbsp; <a href="https://www.paypal.me/SRombauts" title="Pay Me a Beer! Donate with PayPal :)"><img src="https://www.paypalobjects.com/webstatic/paypalme/images/pp_logo_small.png" width="118"></a>
