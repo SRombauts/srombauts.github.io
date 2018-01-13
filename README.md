@@ -1,3 +1,9 @@
+Hi, I am Sébastien Rombauts, or [SRombauts on Github](https://github.com/SRombauts).
+I am a Senior C++ developer.
+
+See also my [developer blog](http://srombauts.fr),
+or follow me on [Twitter](https://twitter.com/SRombauts).
+
 Here are my main GitHub repositories:
 
 - [SQLiteC++](http://srombauts.github.com/SQLiteCpp) ([repo](https://github.com/SRombauts/SQLiteCpp/)): a smart an easy to use C++ wrapper to the SQLite3 library
@@ -7,9 +13,6 @@ Here are my main GitHub repositories:
 - [UE4 Quick Start](https://github.com/SRombauts/UE4QuickStart): a mix of various Unreal Engine 4 C++ Tutorials.
 - [LoggerC++](http://srombauts.github.com/LoggerCpp) ([repo](https://github.com/SRombauts/LoggerCpp/)): a simple, elegant and efficient C++ logger library.
 - [shared_ptr](http://srombauts.github.com/shared_ptr) ([repo](https://github.com/SRombauts/shared_ptr/)): a minimal light and fast shared_ptr implementation designed to handle cases where boost/std::shared_ptr are not available
-
-Follow me on [Twitter](https://twitter.com/SRombauts),
-and see also my [developer blog](http://srombauts.fr).
 
 Copyright (c) 2012-2017 Sébastien Rombauts (sebastien.rombauts@gmail.com)
 <a href="https://www.paypal.me/SRombauts" title="Pay Me a Beer! Donate with PayPal :)"><img src="https://www.paypalobjects.com/webstatic/paypalme/images/pp_logo_small.png" width="118"></a>
