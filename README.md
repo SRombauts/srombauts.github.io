@@ -13,6 +13,7 @@ Here are my main GitHub repositories:
 - [UE4 Procedural Mesh](https://github.com/SRombauts/UE4ProceduralMesh): using the Unreal Engine 4 UProceduralMeshComponent.
 - [UE4 Quick Start](https://github.com/SRombauts/UE4QuickStart): a mix of various Unreal Engine 4 C++ Tutorials.
 - [LoggerC++](http://srombauts.github.io/LoggerCpp) ([repo](https://github.com/SRombauts/LoggerCpp/)): a simple, elegant and efficient C++ logger library.
+- [HtmlBuilder](https://github.com/SRombauts/HtmlBuilder/): a simple C++ HTML generator.
 - [shared_ptr](http://srombauts.github.io/shared_ptr) ([repo](https://github.com/SRombauts/shared_ptr/)): a minimal light and fast shared_ptr implementation designed to handle cases where boost/std::shared_ptr are not available
 
 Copyright (c) 2012-2021 Sébastien Rombauts (sebastien.rombauts@gmail.com)
