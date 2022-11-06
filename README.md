@@ -7,8 +7,8 @@ or follow me on [Twitter](https://twitter.com/SRombauts).
 Here are my main GitHub repositories:
 
 - [SQLiteC++](http://srombauts.github.io/SQLiteCpp) ([repo](https://github.com/SRombauts/SQLiteCpp/)): a smart an easy to use C++ wrapper to the SQLite3 library
-- [UE4 Git Plugin](http://srombauts.github.io/UE4GitPlugin) ([repo](https://github.com/SRombauts/UE4GitPlugin/)): the Unreal Engine 4 Git Source Control Provider Plugin.
-- [UE4 Plastic SCM Plugin](http://srombauts.github.io/UE4PlasticPlugin) ([repo](https://github.com/SRombauts/UE4PlasticPlugin/)): the Unreal Engine 4 Plastic SCM Source Control Provider Plugin.
+- [UE Git Plugin](http://srombauts.github.io/UEGitPlugin) ([repo](https://github.com/SRombauts/UEGitPlugin/)): the Unreal Engine 4 Git Source Control Provider Plugin.
+- [UE Plastic SCM Plugin](http://srombauts.github.io/UEPlasticPlugin) ([repo](https://github.com/SRombauts/UEPlasticPlugin/)): the Unreal Engine 4 Plastic SCM Source Control Provider Plugin.
 - [UE4 Architecture Vis](http://srombauts.github.io/UE4ArchVisDemo) ([repo](https://github.com/SRombauts/UE4ArchVisDemo)): run a live demo in the browser using HTML5.
 - [UE4 Procedural Mesh](https://github.com/SRombauts/UE4ProceduralMesh): using the Unreal Engine 4 UProceduralMeshComponent.
 - [UE4 Quick Start](https://github.com/SRombauts/UE4QuickStart): a mix of various Unreal Engine 4 C++ Tutorials.
