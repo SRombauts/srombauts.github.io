@@ -17,5 +17,4 @@ Here are my main GitHub repositories:
 - [SimplexNoise](https://github.com/SRombauts/SimplexNoise/): A Perlin's Simplex Noise C++ Implementation (1D, 2D, 3D).
 - [shared_ptr](http://srombauts.github.io/shared_ptr) ([repo](https://github.com/SRombauts/shared_ptr/)): a minimal light and fast shared_ptr implementation designed to handle cases where boost/std::shared_ptr are not available
 
-Copyright (c) 2012-2021 Sébastien Rombauts (sebastien.rombauts@gmail.com)
-<a href="https://www.paypal.me/SRombauts" title="Pay Me a Beer! Donate with PayPal :)"><img src="https://www.paypalobjects.com/webstatic/paypalme/images/pp_logo_small.png" width="118"></a>
+Sébastien Rombauts (sebastien.rombauts@gmail.com)
