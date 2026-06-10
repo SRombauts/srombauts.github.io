@@ -1,8 +1,9 @@
 Hi, I am Sébastien Rombauts, or [SRombauts on Github](https://github.com/SRombauts).
-I am a Senior C++ developer.
+I am a Senior Software Engineer working on developer tools, C++, Unreal Engine and Unity, source control integrations, and AI-assisted software engineering.
 
-See also my [developer blog](http://srombauts.fr),
-or follow me on [Twitter](https://twitter.com/SRombauts).
+See also my [developer blog](https://srombauts.eu),
+connect on [LinkedIn](https://www.linkedin.com/in/srombauts/),
+or follow me on [Twitter/X](https://twitter.com/SRombauts).
 
 Here are my main GitHub repositories:
 
